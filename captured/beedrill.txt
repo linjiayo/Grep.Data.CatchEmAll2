@@ -1,0 +1,40 @@
+./forest/filescan_00.1:beed                     ,--""+--.---------------rill
+./forest/filescan_00.1:beed                    /     j   /`.---------------rill
+./forest/filescan_00.1:beed                   |     /   |   `.---------------rill
+./forest/filescan_00.1:beed                   |   ,'    '     \---------------rill
+./forest/filescan_00.1:beed                   j,-'     '`..    \---------------rill
+./forest/filescan_00.1:beed                  +      _ /    `._/ \---------------rill
+./forest/filescan_00.1:beed                  |     / '-.     |   .---------------rill
+./forest/filescan_00.1:beed                  |    /     |   /    |---------------rill
+./forest/filescan_00.1:beed                  |   /     j   j     |---------------rill
+./forest/filescan_00.1:beed                  |  j      |   |     |._---------------rill
+./forest/filescan_00.1:beed                  | .'     7    |     |  `.---------------rill
+./forest/filescan_00.1:beed  ___      _.._   | j      |    +     '    `.---------------rill
+./forest/filescan_00.1:beed |.---=-.,'+-. `. |/       F     L  ,'    ,'`.---------------rill
+./forest/filescan_00.1:beed ||,==--'|_' |  j  \      /      |,'   ,`'    L---------------rill
+./forest/filescan_00.1:beed 'Y'   | |  '/ ',.-.\    j     ,,^  _,' \     |---------------rill
+./forest/filescan_00.1:beed`.||   |  `.'  '    `.   / _,-'   `'     L   F---------------rill
+./forest/filescan_00.1:beed  ||   `     .  ,-.   `,--'              |   |---------------rill
+./forest/filescan_00.1:beed  `'    `.  /_,' ,'     `--------------""""'Y---------------rill
+./forest/filescan_00.1:beed         _:"'_.-'       /_>:-.__           /---------------rill
+./forest/filescan_00.1:beed      `-".`"'__,`-.,-._/      `.""`------"'---------------rill
+./forest/filescan_00.1:beed      `.| `"'      | | _.--'""'--\---------------rill
+./forest/filescan_00.1:beed       || /        | '"  ___,.._  \---------------rill
+./forest/filescan_00.1:beed      _|||__      / /,.-'       `- .---------------rill
+./forest/filescan_00.1:beed    ,'   `. .    /,'/'  _.,-"""--._F---------------rill
+./forest/filescan_00.1:beed    7     | |  .',L'|_-'           |---------------rill
+./forest/filescan_00.1:beed    +     | | / / ',"'  ,.-'""'`-._|---------------rill
+./forest/filescan_00.1:beed     L    ' |. /  .-.`"'           |---------------rill
+./forest/filescan_00.1:beed     |   j j   \  `-.'\           j---------------rill
+./forest/filescan_00.1:beed     +   | | \  `.   ` `.  _.... ,---------------rill
+./forest/filescan_00.1:beed      L  | |  \   .   `  \"     /---------------rill
+./forest/filescan_00.1:beed      | ,' |   L  ,'    \ `    .---------------rill
+./forest/filescan_00.1:beed      | || |   '  |      L `   |---------------rill
+./forest/filescan_00.1:beed      `./|j     `. .     `. \ j---------------rill
+./forest/filescan_00.1:beed       |  '       ` .     | '\`---------------rill
+./forest/filescan_00.1:beed                   \ '.   | \---------------rill
+./forest/filescan_00.1:beed                    | |  /,-'---------------rill
+./forest/filescan_00.1:beed                    j l  "---------------rill
+./forest/filescan_00.1:beed                  _/_,'---------------rill
+./forest/filescan_00.1:beed                 ',' zcw---------------rill
+./forest/filescan_00.1:beed---------------rill

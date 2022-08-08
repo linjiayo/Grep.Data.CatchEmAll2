@@ -1,0 +1,38 @@
+./forest/filescan_00.1:butt       ,-.                                            ___.._---------------erfree
+./forest/filescan_00.1:butt _     `. `.                                    _,-"""      ',._---------------erfree
+./forest/filescan_00.1:butt`.`.      `.\                                _,'         _..-'  `.---------------erfree
+./forest/filescan_00.1:butt  `._\       `.                            ,'         _,'_,.-'-.  \---------------erfree
+./forest/filescan_00.1:butt      `.       `.                        ,'        ,-',-"       \  .---------------erfree
+./forest/filescan_00.1:butt        `.       \                      /  _,----"',-'           L  L---------------erfree
+./forest/filescan_00.1:butt          `.      \                   ,' _.--"-.  [              |  |---------------erfree
+./forest/filescan_00.1:butt            `.     .                 / ,'       | |     _..---../   |---------------erfree
+./forest/filescan_00.1:butt              .     L               / /         | j ,.-'        `   |---------------erfree
+./forest/filescan_00.1:butt               \    .              ' /          j ,'             |  |---------------erfree
+./forest/filescan_00.1:butt                \    .            ' /          ' /               |  |---------------erfree
+./forest/filescan_00.1:butt                 \   l           / /          /,'                j  '---------------erfree
+./forest/filescan_00.1:butt                  L__L._        / /          +'      __,........'  j---------------erfree
+./forest/filescan_00.1:butt                ,'   '  "`.    / /         .' _,.--'"           \  |---------------erfree
+./forest/filescan_00.1:butt               /,""-.      `. ' '        _/.-'                  | F---------------erfree
+./forest/filescan_00.1:butt              /|   / l       . /       ,'                       | |---------------erfree
+./forest/filescan_00.1:butt             | |  /  |       ]'      ,'                         | |---------------erfree
+./forest/filescan_00.1:butt            ,._\"'   |       |     ,'-'"""""""""""""'----.._    / |---------------erfree
+./forest/filescan_00.1:butt            |  \`.._,'       F  _,'                         `--'  |---------------erfree
+./forest/filescan_00.1:butt            `..'           _/ ,:_____                         L   |---------------erfree
+./forest/filescan_00.1:butt              `..          .-'       `'--.._                   | j---------------erfree
+./forest/filescan_00.1:butt            _,. /,---.       \              `--..              | |---------------erfree
+./forest/filescan_00.1:butt           F  <j-.'   `       ._                 `"-._        j  '---------------erfree
+./forest/filescan_00.1:butt           |  <|`,.    |       `L._                   `..   _, ,'---------------erfree
+./forest/filescan_00.1:butt           `..<|`.___,'        |.  `-.                   Y"' _.---------------erfree
+./forest/filescan_00.1:butt              `L               | `.   `-.._____________,',.-'---------------erfree
+./forest/filescan_00.1:butt                `.            .Y   \      `"".""""".  ."'---------------erfree
+./forest/filescan_00.1:butt                  `.        ,' |\   `.        `+-._ \  |---------------erfree
+./forest/filescan_00.1:butt                    `,--. -'   | .    `.       `   `.| |---------------erfree
+./forest/filescan_00.1:butt                    /    //    |  \    ``-..___/     | |---------------erfree
+./forest/filescan_00.1:butt                   j    .l     |   .    F   \   `   F  |---------------erfree
+./forest/filescan_00.1:butt                   |    ||     |    `   `    .   ` ,  /---------------erfree
+./forest/filescan_00.1:butt                   |    ||    F      `-.|     . _,' _'---------------erfree
+./forest/filescan_00.1:butt                   |   / |    |       `._`-----'  ,'---------------erfree
+./forest/filescan_00.1:butt                   |  /  |   /           `-------'---------------erfree
+./forest/filescan_00.1:butt                   l /   \_,'---------------erfree
+./forest/filescan_00.1:butt                    " zcw---------------erfree
+./forest/filescan_00.1:butt---------------erfree

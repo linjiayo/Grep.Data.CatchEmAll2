@@ -1,36 +1,28 @@
 # Part 1
-### a)
+### a) ### b)
+grep {pokemon prefix} ./forest/* > ./captured/{pokemon name}.txt
+repeat for other pokemon
 
-
-
-
-### b)
-
+grep "^char.*izard$" > ./captured/charizard.txt
+grep "^char.*mander$" > ./captured/charmander.txt
+grep "^char.*meleon$" > ./captured/charmeleon.txt
 
 
 ### c)
 
-
-
-
-
-
-
-
-
-
-
-
+field 2 -> charizard, charimeleon, charmander
 
 # Part 2
 ### a)
-
+ls ./captured/ | wc -l
 
 
 
 
 
 ### b)
+pikachu, charizard, beedrill
+find ./captured/ -type f -exec wc -l {} + | sort -rn | head -n 4
 
 
 
